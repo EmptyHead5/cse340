@@ -1,0 +1,7 @@
+{1 , NUM , 1}
+{ , DOT , 1}
+{a , ID , 1}
+{2 , NUM , 2}
+{ , DOT , 2}
+{14 , NUM , 2}
+{ , END_OF_FILE , 4}

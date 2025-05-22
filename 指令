@@ -1,0 +1,5 @@
+g++ -Wall lexer.cc inputbuf.cc -o lexer
+ ./lexer < test/test_base08num_01.txt
+
+ g++ -Wall lexer.cc inputbuf.cc -o a.out
+ ./test1.sh
